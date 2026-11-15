@@ -1,0 +1,83 @@
+{
+  "collection": "Adventure Kid Waveforms",
+  "author": "Kristoffer Karl Axel Ekstrand",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE",
+  "revision": "8de90bf94376670947369e69de0af6b9fbd19286",
+  "directory": "AKWF/AKWF_aguitar",
+  "license_sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673",
+  "files": {
+    "AKWF_aguitar_0034.wav": "cc08a582428a6cd427bc49d6813c2675e0c0cb1b3f1f1a869f2b566fddf1d2b5",
+    "AKWF_aguitar_0003.wav": "0ec1019d785fd21381c5032db6b3290bcfee254df938ca6ac78206a62e86653c",
+    "AKWF_aguitar_0038.wav": "f33a04bc13eed6207aeb3ec38fa98f37b33307a85d90cfe10b0c0ab4f661023f",
+    "AKWF_aguitar_0037.wav": "1041e47daaa12d8710e95308fb05c715adcbe6311f2e9a27375dda7ca3a3caf9",
+    "AKWF_aguitar_0010.wav": "ed3373a0cb9f9f0bcd46eb15147a7f8d3144ae63c33b0669b8d0f967fd21882c",
+    "AKWF_aguitar_0009.wav": "110844c81db4f05755f602bae5342b980a16a19ae6c8155f86956538167f5e22",
+    "AKWF_aguitar_0021.wav": "eeb24f89727153456a93c15080f27c38f745424b6dc7190f157f0f3941e9bfca",
+    "AKWF_aguitar_0014.wav": "d9ef96097b9daa1beec6727467896e96b7850e46124023e9d0c8068bedd6ef23"
+  },
+  "selection": {
+    "candidates_examined": 38,
+    "usable_candidates": 38,
+    "ordering": "ascending phase-aligned spectral centroid",
+    "method": "eight brightness-spaced frames, favoring adjacent shape similarity; reject weak fundamentals and near-duplicates of existing bank",
+    "frames": [
+      {
+        "name": "AKWF_aguitar_0034.wav",
+        "centroid": 1.3296370611184223,
+        "fundamental_fraction": 0.8064174862108846,
+        "closest_existing_similarity": 0.9309071425845248,
+        "sha256": "cc08a582428a6cd427bc49d6813c2675e0c0cb1b3f1f1a869f2b566fddf1d2b5"
+      },
+      {
+        "name": "AKWF_aguitar_0003.wav",
+        "centroid": 1.4285677905017375,
+        "fundamental_fraction": 0.7359745795873999,
+        "closest_existing_similarity": 0.9086253670506182,
+        "sha256": "0ec1019d785fd21381c5032db6b3290bcfee254df938ca6ac78206a62e86653c"
+      },
+      {
+        "name": "AKWF_aguitar_0038.wav",
+        "centroid": 1.613506892467226,
+        "fundamental_fraction": 0.6800092533176306,
+        "closest_existing_similarity": 0.8580188519207691,
+        "sha256": "f33a04bc13eed6207aeb3ec38fa98f37b33307a85d90cfe10b0c0ab4f661023f"
+      },
+      {
+        "name": "AKWF_aguitar_0037.wav",
+        "centroid": 1.7350533366102643,
+        "fundamental_fraction": 0.5831817276392843,
+        "closest_existing_similarity": 0.8629143459879338,
+        "sha256": "1041e47daaa12d8710e95308fb05c715adcbe6311f2e9a27375dda7ca3a3caf9"
+      },
+      {
+        "name": "AKWF_aguitar_0010.wav",
+        "centroid": 2.1823751166412513,
+        "fundamental_fraction": 0.37380185726434983,
+        "closest_existing_similarity": 0.7967839061529293,
+        "sha256": "ed3373a0cb9f9f0bcd46eb15147a7f8d3144ae63c33b0669b8d0f967fd21882c"
+      },
+      {
+        "name": "AKWF_aguitar_0009.wav",
+        "centroid": 2.2058549221236916,
+        "fundamental_fraction": 0.3868217058451567,
+        "closest_existing_similarity": 0.7584949457365636,
+        "sha256": "110844c81db4f05755f602bae5342b980a16a19ae6c8155f86956538167f5e22"
+      },
+      {
+        "name": "AKWF_aguitar_0021.wav",
+        "centroid": 2.5459088795020333,
+        "fundamental_fraction": 0.21410687345663815,
+        "closest_existing_similarity": 0.6885567589385049,
+        "sha256": "eeb24f89727153456a93c15080f27c38f745424b6dc7190f157f0f3941e9bfca"
+      },
+      {
+        "name": "AKWF_aguitar_0014.wav",
+        "centroid": 2.7913246663113505,
+        "fundamental_fraction": 0.018579184057336003,
+        "closest_existing_similarity": 0.21084819023124463,
+        "sha256": "d9ef96097b9daa1beec6727467896e96b7850e46124023e9d0c8068bedd6ef23"
+      }
+    ]
+  }
+}

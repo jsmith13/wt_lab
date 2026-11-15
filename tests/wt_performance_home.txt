@@ -1,0 +1,41 @@
+# FM-style ARP/SEQ controls retain every HOME plot; long SEQ still opens the step editor.
+100 midi 0x90 60 100
+400 shot
+500 btn 10
+700 shot
+800 enc 0 1
+1000 shot
+1100 btn 10
+1200 shot
+1400 btn 10
+1500 shot
+1600 btn 8
+1700 btn 8
+1800 btn 10
+2000 shot
+2100 enc 0 -1
+2300 shot
+2700 btn 11
+2900 shot
+3000 btn 8
+3100 btn 8
+3300 shot
+3400 btn 11
+3600 shot
+4000 btn 11 400
+4600 shot
+4800 keys 0x80
+4880 keys 0
+5000 btn 12
+5300 shot
+5400 btn 11
+5600 shot
+5700 btn 13
+5900 shot
+6000 btn 12
+6100 btn 8
+6300 shot
+6400 btn 10
+6600 shot
+6700 midi 0x80 60 0
+7200 end

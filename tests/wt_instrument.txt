@@ -1,0 +1,38 @@
+# One-oscillator first-playable milestone, then the second oscillator and live edits.
+100 keys 0x80
+350 shot
+500 keys 0x4880
+700 shot
+900 btn 6
+1000 shot
+1100 enc 3 12
+1200 shot
+1250 keys 0x4888
+1300 enc 4 14
+1450 keys 0x4880
+1500 enc 1 1
+1650 shot
+1750 btn 0
+1850 keys 0
+2400 shot
+# MIDI notes, velocity-zero note-off, and panic.
+2500 midi 0x90 69 100
+2750 btn 8
+3000 shot
+3100 midi 0x90 69 0
+3500 midi 0x90 60 100
+3500 midi 0x90 64 100
+3500 midi 0x90 67 100
+3900 midi 0xB0 120 0
+4300 shot
+# A held key's outgoing note-off keeps its original MIDI channel after a channel change.
+4600 keys 0x80
+4700 btn 7
+4850 enc 4 2
+4900 midi 0x90 72 100
+4920 midi 0x91 72 100
+4950 shot
+5000 keys 0
+5100 midi 0x81 72 0
+5400 shot
+5500 end

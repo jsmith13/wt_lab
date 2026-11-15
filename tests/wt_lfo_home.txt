@@ -1,0 +1,44 @@
+# Short LFO keeps wavetable/filter/scope HOME; SELECT/tap switches LFO, hold opens graph/key sync.
+100 midi 0x90 60 100
+400 shot
+500 btn 5
+700 shot
+800 enc 2 4
+850 enc 3 1
+900 enc 4 8
+950 enc 5 3
+1100 shot
+1200 enc 0 1
+1400 shot
+1500 enc 2 8
+1550 enc 3 2
+1600 enc 4 4
+1650 enc 5 5
+1800 shot
+1900 btn 5
+2100 shot
+2200 btn 8
+2300 btn 8
+2500 shot
+2600 btn 5
+2800 shot
+2900 enc 0 1
+3100 shot
+3200 btn 8
+3300 btn 8
+3500 shot
+3600 btn 5
+3800 shot
+3900 enc 0 -1
+4100 shot
+4200 btn 5 400
+4800 shot
+4900 enc 0 1
+5000 enc 2 1
+5200 shot
+5300 btn 8
+5500 shot
+5600 btn 5
+5800 shot
+5900 midi 0x80 60 0
+6500 end

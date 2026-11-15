@@ -1,0 +1,49 @@
+# Dual HOME bars, paired knobs, detune/PENV, cyclic tables and EDIT state on all views.
+100 midi 0x90 60 100
+400 shot
+500 enc 2 -10
+600 enc 4 10
+700 shot
+800 enc 5 10
+900 enc 3 5
+1000 shot
+1100 enc 0 1
+1200 enc 2 12
+1300 enc 3 10
+1310 midi 0x80 60 0
+1320 midi 0x90 64 100
+1400 shot
+1500 btn 3 400
+1600 enc 2 13
+2000 shot
+2100 enc 1 -1
+2200 shot
+2300 enc 1 1
+2400 shot
+2500 btn 6
+2700 shot
+2800 keys 0x8
+2850 keys 0
+2900 keys 0x100000
+2940 keys 0
+3000 keys 0x400000
+3040 keys 0
+3100 keys 0x2000000
+3140 keys 0
+3300 shot
+3400 btn 8
+3500 btn 8
+3700 shot
+3800 btn 6
+4000 shot
+4100 btn 8
+4200 btn 8
+4400 shot
+4500 btn 6
+4700 shot
+4800 btn 6 400
+5400 shot
+5500 enc 0 1
+5700 shot
+5800 midi 0x80 64 0
+6500 end

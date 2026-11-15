@@ -1,0 +1,11 @@
+# A distinct process reopens the raw flash image written by wt_workflow.txt.
+50 midi 0xB0 0 8
+100 midi 0xC0 31 0
+200 shot
+300 midi 0x90 69 100
+600 shot
+800 midi 0x80 69 0
+1000 btn 2 600
+1600 shot
+2000 shot
+2300 end

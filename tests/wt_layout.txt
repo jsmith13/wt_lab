@@ -1,0 +1,30 @@
+# Shared FM/WT emulator gestures for side-by-side layout inspection.
+100 midi 0x90 60 100
+2500 shot
+2600 btn 6
+3000 shot
+3200 btn 6 600
+4000 shot
+4100 btn 8
+4300 btn 4 600
+5100 shot
+5300 btn 8
+5500 btn 5 600
+6300 shot
+6500 btn 7
+6700 shot
+6900 btn 2 600
+7700 shot
+7900 btn 8
+8100 btn 8
+8500 shot
+8700 btn 8
+9100 shot
+9300 btn 8
+9500 btn 9
+9700 shot
+9900 btn 8
+10100 btn 11 600
+10900 shot
+11000 midi 0x80 60 0
+11300 end

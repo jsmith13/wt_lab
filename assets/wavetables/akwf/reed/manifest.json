@@ -1,0 +1,83 @@
+{
+  "collection": "Adventure Kid Waveforms",
+  "author": "Kristoffer Karl Axel Ekstrand",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE",
+  "revision": "8de90bf94376670947369e69de0af6b9fbd19286",
+  "directory": "AKWF/AKWF_clarinett",
+  "license_sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673",
+  "files": {
+    "AKWF_clarinett_0006.wav": "6a990779441f58cfba126e87797a539db3b7b680f8828c28688b5432bcbc5a3e",
+    "AKWF_clarinett_0007.wav": "40da73ddc74149b7eebd8081359affc843dcbf08d5fe00b9f4286b80f7d6ade5",
+    "AKWF_clarinett_0005.wav": "3fa8dad178f4ce6cd767edb093abb19293ebd493a20065b316413566b9e820be",
+    "AKWF_clarinett_0003.wav": "cc0ee8800aeff327a4c4837edc1ded785b2d172a4d8384ab7394ce1879d86372",
+    "AKWF_clarinett_0012.wav": "edbf40b37827476ce4cc3e8bdf98216a2957fbaeec8893286e861303ef170e1c",
+    "AKWF_clarinett_0001.wav": "3d1b4335917313a14a7c79f0a770c3ad0d99dd039a0ba220f16cc80d2e18584f",
+    "AKWF_clarinett_0020.wav": "6efab3016c31c70ac5e532df8807bbc58b12d8b9664ff0ea6f652f8dfbb354cb",
+    "AKWF_clarinett_0021.wav": "d3dd27c05cfaeaa2aaacb619868e32316d4b3baea88b2bb35e0b15cdee27c1b4"
+  },
+  "selection": {
+    "candidates_examined": 25,
+    "usable_candidates": 19,
+    "ordering": "ascending phase-aligned spectral centroid",
+    "method": "eight brightness-spaced frames, favoring adjacent shape similarity; reject weak fundamentals and near-duplicates of existing bank",
+    "frames": [
+      {
+        "name": "AKWF_clarinett_0006.wav",
+        "centroid": 1.0599804522511216,
+        "fundamental_fraction": 0.9541513528068924,
+        "closest_existing_similarity": 0.9861664943369506,
+        "sha256": "6a990779441f58cfba126e87797a539db3b7b680f8828c28688b5432bcbc5a3e"
+      },
+      {
+        "name": "AKWF_clarinett_0007.wav",
+        "centroid": 1.1711828855694613,
+        "fundamental_fraction": 0.9000669042807314,
+        "closest_existing_similarity": 0.9613397108935106,
+        "sha256": "40da73ddc74149b7eebd8081359affc843dcbf08d5fe00b9f4286b80f7d6ade5"
+      },
+      {
+        "name": "AKWF_clarinett_0005.wav",
+        "centroid": 1.3233803094221752,
+        "fundamental_fraction": 0.9050315609929789,
+        "closest_existing_similarity": 0.9678240520188651,
+        "sha256": "3fa8dad178f4ce6cd767edb093abb19293ebd493a20065b316413566b9e820be"
+      },
+      {
+        "name": "AKWF_clarinett_0003.wav",
+        "centroid": 1.4478830685525856,
+        "fundamental_fraction": 0.7862092138077627,
+        "closest_existing_similarity": 0.9345974034507372,
+        "sha256": "cc0ee8800aeff327a4c4837edc1ded785b2d172a4d8384ab7394ce1879d86372"
+      },
+      {
+        "name": "AKWF_clarinett_0012.wav",
+        "centroid": 1.9330245987042953,
+        "fundamental_fraction": 0.6187995899436716,
+        "closest_existing_similarity": 0.7866381569334604,
+        "sha256": "edbf40b37827476ce4cc3e8bdf98216a2957fbaeec8893286e861303ef170e1c"
+      },
+      {
+        "name": "AKWF_clarinett_0001.wav",
+        "centroid": 2.11630910185597,
+        "fundamental_fraction": 0.5591782363769496,
+        "closest_existing_similarity": 0.7477822118618158,
+        "sha256": "3d1b4335917313a14a7c79f0a770c3ad0d99dd039a0ba220f16cc80d2e18584f"
+      },
+      {
+        "name": "AKWF_clarinett_0020.wav",
+        "centroid": 2.5060777216283885,
+        "fundamental_fraction": 0.4938343094549522,
+        "closest_existing_similarity": 0.7060079175344111,
+        "sha256": "6efab3016c31c70ac5e532df8807bbc58b12d8b9664ff0ea6f652f8dfbb354cb"
+      },
+      {
+        "name": "AKWF_clarinett_0021.wav",
+        "centroid": 2.6837706907014964,
+        "fundamental_fraction": 0.2520211728366155,
+        "closest_existing_similarity": 0.5848780537295956,
+        "sha256": "d3dd27c05cfaeaa2aaacb619868e32316d4b3baea88b2bb35e0b15cdee27c1b4"
+      }
+    ]
+  }
+}

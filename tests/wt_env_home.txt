@@ -1,0 +1,37 @@
+# ENV shortcut preserves all HOME views; SELECT changes ADSR target, hold retains the full editor.
+100 midi 0x90 60 100
+400 shot
+500 btn 4
+700 shot
+800 enc 2 10
+1000 shot
+1100 enc 0 1
+1300 shot
+1400 enc 3 10
+1600 shot
+1700 btn 8
+1800 btn 8
+2000 shot
+2100 btn 4
+2300 shot
+2400 enc 0 1
+2600 shot
+2700 btn 8
+2800 btn 8
+3000 shot
+3100 btn 4
+3300 shot
+3400 enc 0 1
+3600 shot
+3700 btn 4 400
+4300 shot
+4400 enc 0 1
+4600 shot
+4700 enc 0 1
+4900 shot
+5000 btn 8
+5200 shot
+5300 btn 4
+5500 shot
+5600 midi 0x80 60 0
+6500 end

@@ -1,0 +1,46 @@
+# Native gestures, A/B, live morph, analyser/scope, output preferences and held shortcut keys.
+100 midi 0x90 69 100
+200 shot
+250 btn 6
+350 enc 1 1
+380 enc 3 10
+500 shot
+600 btn 3
+700 shot
+950 btn 3
+1100 shot
+1150 btn 3 600
+1800 btn 6 600
+2300 shot
+2400 keys 0x2000000
+2480 keys 0
+2550 shot
+2630 keys 0x2000000
+3230 keys 0
+3300 btn 8
+3400 btn 8
+3500 shot
+3600 btn 8
+3750 shot
+3800 btn 5
+3900 enc 4 20
+3920 enc 5 1
+3950 shot
+4000 btn 8
+4100 shot
+4200 btn 8
+4300 shot
+4400 btn 7
+4500 enc 2 12
+4600 shot
+4650 enc 0 2
+4700 enc 4 -3
+4800 shot
+4900 midi 0x80 69 0
+5200 midi 0xB0 123 0
+5300 btn 8
+5500 keys 0x2000002
+5600 btn 6
+5700 btn 1
+5800 keys 0
+6000 end

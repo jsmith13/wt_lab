@@ -1,0 +1,83 @@
+{
+  "collection": "Adventure Kid Waveforms",
+  "author": "Kristoffer Karl Axel Ekstrand",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE",
+  "revision": "8de90bf94376670947369e69de0af6b9fbd19286",
+  "directory": "AKWF/AKWF_distorted",
+  "license_sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673",
+  "files": {
+    "AKWF_distorted_0004.wav": "e3f9bcd887d1c89b220512335c6a3817af3fb1c25dee62798360eec8dbb2e3bd",
+    "AKWF_distorted_0011.wav": "6af2648e9ad75c7775711bbaa17104e87ddf07148b99029cde2ad0c57153bd56",
+    "AKWF_distorted_0012.wav": "bfa452582c145b3d98d20bc18f50edd558abe214d6a49a6eabbee925ae304656",
+    "AKWF_distorted_0014.wav": "07df54dba82a704f0467b7a152febd925c4fefdbcb2c63a898456ff6b23cda01",
+    "AKWF_distorted_0042.wav": "52f6a7d7599146a38852f76e33602b42ea4a6e54c60f52c8d73eb9866aeabe50",
+    "AKWF_distorted_0009.wav": "01129e4bf8c9b0a08363b690c29b349df63e419a97d4937e0a4df2dd22c7b665",
+    "AKWF_distorted_0007.wav": "9e97ec036b3a43377d893342270e83e48cab8526f56f99609a407050c1f21921",
+    "AKWF_distorted_0031.wav": "34174de4c4b8f08d120830385616a4d309c39645a1b1bca66c6efb5bafbf3980"
+  },
+  "selection": {
+    "candidates_examined": 45,
+    "usable_candidates": 42,
+    "ordering": "ascending phase-aligned spectral centroid",
+    "method": "eight brightness-spaced frames, favoring adjacent shape similarity; reject weak fundamentals and near-duplicates of existing bank",
+    "frames": [
+      {
+        "name": "AKWF_distorted_0004.wav",
+        "centroid": 1.257004838214065,
+        "fundamental_fraction": 0.9170856825924958,
+        "closest_existing_similarity": 0.993133500616369,
+        "sha256": "e3f9bcd887d1c89b220512335c6a3817af3fb1c25dee62798360eec8dbb2e3bd"
+      },
+      {
+        "name": "AKWF_distorted_0011.wav",
+        "centroid": 1.71583131657553,
+        "fundamental_fraction": 0.8678374311461601,
+        "closest_existing_similarity": 0.9793797831229801,
+        "sha256": "6af2648e9ad75c7775711bbaa17104e87ddf07148b99029cde2ad0c57153bd56"
+      },
+      {
+        "name": "AKWF_distorted_0012.wav",
+        "centroid": 1.9147175741295408,
+        "fundamental_fraction": 0.8496677456350308,
+        "closest_existing_similarity": 0.9846094936044704,
+        "sha256": "bfa452582c145b3d98d20bc18f50edd558abe214d6a49a6eabbee925ae304656"
+      },
+      {
+        "name": "AKWF_distorted_0014.wav",
+        "centroid": 2.4826033437071713,
+        "fundamental_fraction": 0.803824233396308,
+        "closest_existing_similarity": 0.9125999073186915,
+        "sha256": "07df54dba82a704f0467b7a152febd925c4fefdbcb2c63a898456ff6b23cda01"
+      },
+      {
+        "name": "AKWF_distorted_0042.wav",
+        "centroid": 3.383831479191676,
+        "fundamental_fraction": 0.7632264473257017,
+        "closest_existing_similarity": 0.9090241932935093,
+        "sha256": "52f6a7d7599146a38852f76e33602b42ea4a6e54c60f52c8d73eb9866aeabe50"
+      },
+      {
+        "name": "AKWF_distorted_0009.wav",
+        "centroid": 4.152306212895174,
+        "fundamental_fraction": 0.6715221527742169,
+        "closest_existing_similarity": 0.8194645524818123,
+        "sha256": "01129e4bf8c9b0a08363b690c29b349df63e419a97d4937e0a4df2dd22c7b665"
+      },
+      {
+        "name": "AKWF_distorted_0007.wav",
+        "centroid": 4.601119955757294,
+        "fundamental_fraction": 0.6712333959983562,
+        "closest_existing_similarity": 0.8192883472858358,
+        "sha256": "9e97ec036b3a43377d893342270e83e48cab8526f56f99609a407050c1f21921"
+      },
+      {
+        "name": "AKWF_distorted_0031.wav",
+        "centroid": 6.982525306090812,
+        "fundamental_fraction": 0.3574310874340052,
+        "closest_existing_similarity": 0.7056148711249723,
+        "sha256": "34174de4c4b8f08d120830385616a4d309c39645a1b1bca66c6efb5bafbf3980"
+      }
+    ]
+  }
+}

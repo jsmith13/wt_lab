@@ -1,0 +1,34 @@
+# Scan the six appended tables on oscillator 1, keeping the existing HOME controls.
+200 enc 1 8
+400 midi 0x90 69 100
+600 shot
+800 enc 3 99
+1000 shot
+2000 enc 1 1
+2000 enc 3 -99
+2400 shot
+2600 enc 3 99
+2800 shot
+4000 enc 1 1
+4000 enc 3 -99
+4400 shot
+4600 enc 3 99
+4800 shot
+6000 enc 1 1
+6000 enc 3 -99
+6400 shot
+6600 enc 3 99
+6800 shot
+8000 enc 1 1
+8000 enc 3 -99
+8400 shot
+8600 enc 3 99
+8800 shot
+10000 enc 1 1
+10000 enc 3 -99
+10400 shot
+10600 enc 3 99
+10800 shot
+12000 midi 0x80 69 0
+12500 shot
+13000 end

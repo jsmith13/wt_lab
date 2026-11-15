@@ -1,0 +1,83 @@
+{
+  "collection": "Adventure Kid Waveforms",
+  "author": "Kristoffer Karl Axel Ekstrand",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE",
+  "revision": "8de90bf94376670947369e69de0af6b9fbd19286",
+  "directory": "AKWF/AKWF_cello",
+  "license_sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673",
+  "files": {
+    "AKWF_cello_0006.wav": "d050195e69c89108fb5bc8514414c2de18e57c28c7cf3773175c77379f225636",
+    "AKWF_cello_0003.wav": "e7ad3ec32dd0a74830dc60b19fa3c034f4da8d309b3bd1dcd621226f58d48b0d",
+    "AKWF_cello_0017.wav": "ff418203dc330f8ea4140e1bb76a429f3d387c2091285cc964c79576af6d5491",
+    "AKWF_cello_0012.wav": "d84570a015f616d3e02652cb1f4ce980d2ef59abfb2d324d82197472ce5f9b6e",
+    "AKWF_cello_0018.wav": "dc1c92354c2cae3765c17c8863b197f8f650c2f49b0c9c9a69837e3903dd4798",
+    "AKWF_cello_0016.wav": "061f1b137bbb893830542005d1b2f31c6216e9fce80c28017361c2d4f17ce92a",
+    "AKWF_cello_0015.wav": "e4ba6ea03aaba5af417350849e9564ddfa09b9bfdd9c7ebbf1e5d4c8b851859b",
+    "AKWF_cello_0009.wav": "153026a0b94d5e9d747dd85bff16e796d4b0f219e0b5a8d8a5ae6a0357e54d03"
+  },
+  "selection": {
+    "candidates_examined": 19,
+    "usable_candidates": 18,
+    "ordering": "ascending phase-aligned spectral centroid",
+    "method": "eight brightness-spaced frames, favoring adjacent shape similarity; reject weak fundamentals and near-duplicates of existing bank",
+    "frames": [
+      {
+        "name": "AKWF_cello_0006.wav",
+        "centroid": 1.9273818218062546,
+        "fundamental_fraction": 0.414304903892326,
+        "closest_existing_similarity": 0.8377930577294713,
+        "sha256": "d050195e69c89108fb5bc8514414c2de18e57c28c7cf3773175c77379f225636"
+      },
+      {
+        "name": "AKWF_cello_0003.wav",
+        "centroid": 1.9720411168460676,
+        "fundamental_fraction": 0.3343830843751872,
+        "closest_existing_similarity": 0.7374609062486731,
+        "sha256": "e7ad3ec32dd0a74830dc60b19fa3c034f4da8d309b3bd1dcd621226f58d48b0d"
+      },
+      {
+        "name": "AKWF_cello_0017.wav",
+        "centroid": 2.59604090289256,
+        "fundamental_fraction": 0.5817818027490617,
+        "closest_existing_similarity": 0.7949432809493602,
+        "sha256": "ff418203dc330f8ea4140e1bb76a429f3d387c2091285cc964c79576af6d5491"
+      },
+      {
+        "name": "AKWF_cello_0012.wav",
+        "centroid": 3.4121739178789556,
+        "fundamental_fraction": 0.30607939301775244,
+        "closest_existing_similarity": 0.5783213851042253,
+        "sha256": "d84570a015f616d3e02652cb1f4ce980d2ef59abfb2d324d82197472ce5f9b6e"
+      },
+      {
+        "name": "AKWF_cello_0018.wav",
+        "centroid": 3.424531103261411,
+        "fundamental_fraction": 0.3019964774145281,
+        "closest_existing_similarity": 0.5600698699562182,
+        "sha256": "dc1c92354c2cae3765c17c8863b197f8f650c2f49b0c9c9a69837e3903dd4798"
+      },
+      {
+        "name": "AKWF_cello_0016.wav",
+        "centroid": 3.4869430268108137,
+        "fundamental_fraction": 0.337308736372888,
+        "closest_existing_similarity": 0.59435701256617,
+        "sha256": "061f1b137bbb893830542005d1b2f31c6216e9fce80c28017361c2d4f17ce92a"
+      },
+      {
+        "name": "AKWF_cello_0015.wav",
+        "centroid": 3.5738164371387904,
+        "fundamental_fraction": 0.21844521747625298,
+        "closest_existing_similarity": 0.5659438066879823,
+        "sha256": "e4ba6ea03aaba5af417350849e9564ddfa09b9bfdd9c7ebbf1e5d4c8b851859b"
+      },
+      {
+        "name": "AKWF_cello_0009.wav",
+        "centroid": 4.168016594010127,
+        "fundamental_fraction": 0.0666468847748063,
+        "closest_existing_similarity": 0.46675234718886827,
+        "sha256": "153026a0b94d5e9d747dd85bff16e796d4b0f219e0b5a8d8a5ae6a0357e54d03"
+      }
+    ]
+  }
+}

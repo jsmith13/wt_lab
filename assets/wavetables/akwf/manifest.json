@@ -1,0 +1,19 @@
+{
+  "collection": "Adventure Kid Waveforms",
+  "author": "Kristoffer Karl Axel Ekstrand",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE",
+  "revision": "8de90bf94376670947369e69de0af6b9fbd19286",
+  "directory": "AKWF/AKWF_hvoice",
+  "license_sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673",
+  "files": {
+    "AKWF_hvoice_0001.wav": "ea57edce5b9b72b0380c0269081c75fae7be4df13ce74bdb5b555892a5714220",
+    "AKWF_hvoice_0002.wav": "0e3cc7969410316aa007b5535c89771faf897d6725506c11fe8a47f0eaee6ec3",
+    "AKWF_hvoice_0003.wav": "26a076bb9d6bb1d4f9d0d38f09decba0b7904d7b80ce636d75ee4748d9797c88",
+    "AKWF_hvoice_0004.wav": "196cbbe4fa3b307087e707aab376f1d647b604413f960fcc494c401a8380eefa",
+    "AKWF_hvoice_0005.wav": "7f894529700590efa735543eccdb190132dfc63eccf72bb7b25eb571f0edbaf6",
+    "AKWF_hvoice_0006.wav": "b8238e076a499142bb3910ae3d770555fafdf176837da6cc30857d0e682d5f6e",
+    "AKWF_hvoice_0007.wav": "e84514b8fa64494801fbff23259045961fc839a53dd47d83a603bc1748773fee",
+    "AKWF_hvoice_0008.wav": "5d912d5e8adbe44ded9a496022a869dff7d510e50f89e6ef879fec1921a8d234"
+  }
+}

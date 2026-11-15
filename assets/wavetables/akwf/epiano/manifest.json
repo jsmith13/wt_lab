@@ -1,0 +1,83 @@
+{
+  "collection": "Adventure Kid Waveforms",
+  "author": "Kristoffer Karl Axel Ekstrand",
+  "license": "CC0-1.0",
+  "repository": "https://github.com/KristofferKarlAxelEkstrand/AKWF-FREE",
+  "revision": "8de90bf94376670947369e69de0af6b9fbd19286",
+  "directory": "AKWF/AKWF_epiano",
+  "license_sha256": "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673",
+  "files": {
+    "AKWF_epiano_0057.wav": "64b8ded2b371991aab0d0c9ef6316e13a11d8e7c1c6994825cad1fa29843ea21",
+    "AKWF_epiano_0056.wav": "94d7c6156da73920275de8052a2b8cebd4d0a5210666747d3f0b87677d15914b",
+    "AKWF_epiano_0050.wav": "9df0e14f85f3c7ccaff8c8732da706eb24fc5f66dca9534ef234503ee44135f4",
+    "AKWF_epiano_0024.wav": "ca83899dfe2d008af57a125ce1f056791d71dc3e2a2e240c719b41b830f53948",
+    "AKWF_epiano_0064.wav": "ed3659a26a6ca7b64cf9ffc7823515038ec7830f7e4a537297fe0a54ca026bfe",
+    "AKWF_epiano_0046.wav": "fc0cfb9a1e4bbe94f4ee94539bf00e0584d0203ad233596579423f0c58527735",
+    "AKWF_epiano_0071.wav": "3e1502e2e5d69086f30be8c8cb56dc21bc6d0904e38e8c0cc814462c47bce44b",
+    "AKWF_epiano_0038.wav": "0a20eedc174f5f05fc744aa394b90d01f7d4130f8bc9c8777e2724609382be90"
+  },
+  "selection": {
+    "candidates_examined": 73,
+    "usable_candidates": 72,
+    "ordering": "ascending phase-aligned spectral centroid",
+    "method": "eight brightness-spaced frames, favoring adjacent shape similarity; reject weak fundamentals and near-duplicates of existing bank",
+    "frames": [
+      {
+        "name": "AKWF_epiano_0057.wav",
+        "centroid": 1.1355951931800825,
+        "fundamental_fraction": 0.8837231984060496,
+        "closest_existing_similarity": 0.9693773075811742,
+        "sha256": "64b8ded2b371991aab0d0c9ef6316e13a11d8e7c1c6994825cad1fa29843ea21"
+      },
+      {
+        "name": "AKWF_epiano_0056.wav",
+        "centroid": 1.2067876539064635,
+        "fundamental_fraction": 0.8278897166696159,
+        "closest_existing_similarity": 0.9606145338457331,
+        "sha256": "94d7c6156da73920275de8052a2b8cebd4d0a5210666747d3f0b87677d15914b"
+      },
+      {
+        "name": "AKWF_epiano_0050.wav",
+        "centroid": 1.4792631322454233,
+        "fundamental_fraction": 0.6800069150461349,
+        "closest_existing_similarity": 0.8832989369784693,
+        "sha256": "9df0e14f85f3c7ccaff8c8732da706eb24fc5f66dca9534ef234503ee44135f4"
+      },
+      {
+        "name": "AKWF_epiano_0024.wav",
+        "centroid": 1.5391173517370504,
+        "fundamental_fraction": 0.6574710476871066,
+        "closest_existing_similarity": 0.882383824493896,
+        "sha256": "ca83899dfe2d008af57a125ce1f056791d71dc3e2a2e240c719b41b830f53948"
+      },
+      {
+        "name": "AKWF_epiano_0064.wav",
+        "centroid": 2.003057418302229,
+        "fundamental_fraction": 0.3763897274659457,
+        "closest_existing_similarity": 0.8542108993495551,
+        "sha256": "ed3659a26a6ca7b64cf9ffc7823515038ec7830f7e4a537297fe0a54ca026bfe"
+      },
+      {
+        "name": "AKWF_epiano_0046.wav",
+        "centroid": 2.4114761646056704,
+        "fundamental_fraction": 0.21696777862372818,
+        "closest_existing_similarity": 0.8441668957645984,
+        "sha256": "fc0cfb9a1e4bbe94f4ee94539bf00e0584d0203ad233596579423f0c58527735"
+      },
+      {
+        "name": "AKWF_epiano_0071.wav",
+        "centroid": 2.5579961572994128,
+        "fundamental_fraction": 0.11003757842279666,
+        "closest_existing_similarity": 0.7662667838864383,
+        "sha256": "3e1502e2e5d69086f30be8c8cb56dc21bc6d0904e38e8c0cc814462c47bce44b"
+      },
+      {
+        "name": "AKWF_epiano_0038.wav",
+        "centroid": 3.060166810783397,
+        "fundamental_fraction": 0.09513525726867035,
+        "closest_existing_similarity": 0.7503041741630385,
+        "sha256": "0a20eedc174f5f05fc744aa394b90d01f7d4130f8bc9c8777e2724609382be90"
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+# Native FX, final user-slot save, phrase entry/recording and MIDI arpeggiation.
+0 btn 2 400
+450 enc 2 6
+460 enc 3 2
+470 enc 4 4
+480 enc 5 3
+500 btn 2
+550 enc 2 5
+600 btn 2
+650 enc 2 4
+660 enc 3 -6
+670 enc 4 4
+680 enc 5 3
+700 btn 2
+800 enc 2 4
+820 enc 3 -4
+850 btn 9
+920 enc 1 1
+1000 enc 6 255
+1100 shot
+1200 btn 9
+1450 shot
+1500 midi 0x90 69 100
+1800 shot
+2000 btn 2
+2100 shot
+2200 midi 0x80 69 0
+2800 midi 0xB0 0 8
+2850 midi 0xC0 31 0
+3000 midi 0x90 69 100
+3300 shot
+3600 midi 0x80 69 0
+3750 midi 0xB0 0 0
+3760 midi 0xC0 0 0
+3800 btn 11 600
+4300 keys 0x80
+4380 keys 0
+4420 enc 0 4
+4500 keys 0x800
+4580 keys 0
+4620 enc 0 4
+4700 keys 0x4000
+4780 keys 0
+4820 enc 0 4
+4900 keys 0x80000
+4980 keys 0
+5100 shot
+5200 btn 12
+6000 shot
+7300 btn 12
+7600 btn 13
+7800 shot
+9700 midi 0x90 60 100
+9880 midi 0x80 60 0
+10050 midi 0x90 64 100
+10230 midi 0x80 64 0
+10550 midi 0x90 67 100
+10730 midi 0x80 67 0
+11900 shot
+12000 btn 12
+12300 btn 8
+12400 btn 10
+12500 btn 10
+12580 midi 0x90 60 100
+12600 midi 0x90 64 100
+12620 midi 0x90 67 100
+12800 shot
+12900 midi 0x80 60 0
+12920 midi 0x80 64 0
+12940 midi 0x80 67 0
+13050 shot
+13300 btn 10
+14400 shot
+15000 end
